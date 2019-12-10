@@ -1,4 +1,6 @@
 class Dog
-  fido
+
 
 end
+
+fido = Dog.new
